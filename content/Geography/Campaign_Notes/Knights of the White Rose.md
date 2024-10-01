@@ -1,4 +1,0 @@
-An order of knights devoted to the goddess [[Mythos/The Mortal Gods/Tenesia|Tenesia]], but in no way tied to the [[Mythos/The Mortal Gods/Tenesia#Church of the Rose|Church of the Rose]]. They reside in [[Geography/Weald/Villages of the Weald#Fort Justice|Fort Justice]], a repurposed fortification along the [[Geography/Natural/Waterways#Reden|Reden]].
-
-## Ser Gwyneth
-Met by the party in [[Geography/Weald/Villages of the Weald#Gronmarket|Gronmarket]], the knight was en route to an important errand in [[Geography/Weald/Weald#Odgood|Odgood]] when she was alarmed to sense a pending evil building in the otherwise peaceful settlement. It seems she is torn by whatever important task she is carrying and not abandoning the unwitting folks of Gronmarket to whatever evil is about to be upon them.
