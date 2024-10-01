@@ -1,0 +1,9 @@
+All manner of golems exist, creatures made from artificial bodies that have been animated through magic. Diverse in material, form, and function, golems can possess all manner of qualities and capabilities all depending on how they were created. The [[Culture/List of Factions#Andrikelo Coven|Coven of the Dancing Hands]] are particularly renowned for their creation of golems for use as servants and familiars. Due to their magical origins, all golems possess a unique relationship with magic. Many forms of magic simply struggle to effects golems, a phenomenon believed to be similar to how one cannot target a sword with a *heal* spell or a mortal with *bind undead*. When magic does interact with a golem, it can have unexpected effects so caution is always advised.
+
+## Glass Golems
+![GlassGolem](Beastiary/Images/Golem_GlassGolem.png)
+Made of glass that has been treated alchemically and magically to become harder than steel, glass golems are expensive status symbols often serving as guardians or sentinels for wealthy individuals or high value establishments. The magic can sometimes be seen moving within the glass, like light spectra being refracted back and forth. The more powerful the golem, the more light seems to be trapped within it. The glass harvested from such a golem's remains can often be reformed into evocative artworks sought out by collectors and followers of [[Mythos/The Mortal Gods/Panismé|Panismé]].
+
+## Poppets
+![Poppet](Beastiary/Images/Golem_Poppet.png)
+One of the most basic forms of a golem, called a poppet, these are sometimes the first creations of those who go on to craft many more golems. Some further refine the art of poppet-making, for what they tend to lack in physical capability poppets seem to possess a high potential for more complex consciousness and personality. The [[Culture/List of Factions#Andrikelo Coven|Coven of the Dancing Hands]] are particularly known for their poppet familiars.

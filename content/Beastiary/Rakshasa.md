@@ -1,0 +1,13 @@
+The nature of the rakshasa is difficult to pin down, many theologists and occultists have spent lifetimes trying to extract the truth of their purpose from them. What has been gathered is that rakshasa represent some sort of manifestation of sin itself, similar to a [[Mythos/Fiends/Demons|demon]]. Unlike a demon however, who is sustained by the sins of mortals, a rakshasa seems to be sustained by their own sins. In this sense, some have argued they are more akin to [[Mythos/Fiends/Devils|devils]] in the way that they have a hierarchy of power which an individual can ascend. What causes much of the debate is the reasoning why a rakshasa sins, some argue it is pure greed and lust for power that drives them to sin and so to become stronger, while others argue that the act of sinning is more akin to eating and that the rakshasa is innately compelled by a need to sin.
+
+## Raktavarna
+![Raktavarna](Beastiary/Images/Rakshasa_Raktavarna.png)
+The lowest form of rakshasa, a raktavana is but a wisp of energy only able to manifest fully when given purpose by a more powerful entity. As such they are often taken as familiars or bound as servile spirits by various wizards and occultists. They are always a risk however, given too long a leash and there is a chance they will turn on their master that they might reclaim their free will.
+
+## Dandasuka
+![Dandasuka](Beastiary/Images/Rakshasa_Dandasuka.png)
+Stronger than a [[Beastiary/Rakshasa#Raktavarna|raktavarna]], a dandasuka is able to manifest under its own power. It is still not particularly strong, but by this point it has developed a taste of power and is desperate for more. For this reason, they have a reputation for being overeager servants, willing to make almost any deal with a mortal in exchange for mortal blood. In an effort to do this, they also are often members of a rakshasa 'family', a faction of rakshasa often led by a raja. These families will work together in order to better engage in their business of fiendish contracts.
+
+## Raja
+![Raja](Beastiary/Images/Rakshasa_Raja.png)
+Not many rakshasa gain enough power to become raja, but should they do so their physical manifestation becomes even more resilient. A raja is no longer at the whim of sorcerers and clerics, they have completely free will and the only thing that binds them to their contracts is their word. As such dealing with a raja is a tricky endeavour - they have much more capability to fulfil their bargains than a [[Beastiary/Rakshasa#Dandasuka|dandasuka]] does, but they are much more likely to deliberately double cross or deceive you.

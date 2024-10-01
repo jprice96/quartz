@@ -1,0 +1,1 @@
+Malignant creatures known to despise fiends, it seems this rivalry is their only motive behind their hatred of the mortal races. Bizarre and unfathomable in their nature, they are frequently associated with the [[Mythos/The Three Terrors#Dyphora, Terror of Malaise|Terror of Malaise]] but this association may be baseless.

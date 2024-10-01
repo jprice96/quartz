@@ -1,0 +1,2 @@
+![CaveFisher](Beastiary/Images/CaveFisher.png)
+A common pest found in waterlogged caves, rocky tidepools, and idle anchorage, these hard-shelled crabs produce a sticky filament not unlike spider silk. They use this as a snare left floating in the water or strung across the rocks, lying in wait until it snares something. They are mostly a nuisance unless in great number, but their silken filaments can be sought after as a useful crafting material.

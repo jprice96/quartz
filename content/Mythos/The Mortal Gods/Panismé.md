@@ -1,0 +1,23 @@
+---
+title: "Panismé"
+---
+Goddess of pleasure and beauty, her worship is most prominent in [Port Manteaux](Geography/Port%20Manteaux.md), as well as having many chapels in [Agercort](Geography/Agercort.md). She is said to be the muse of all artists, and the patron of new lovers. Panismé emphasises the importance of fulfilling one's desires, indulging in comforts and luxuries without guilt or abandon. The point of living is pleasure and happiness, it is pointless and sinful to deny your own desires. She is typically considered chaotic good, although in some regions, particularly [Cruworia](Geography/Cruworia.md) she can be considered neutral or even evil. Her followers tend to either explore the world in search of new pleasures and experiences, or to be artists or even charity workers who seek to help bring beauty to others.
+
+Her symbol is either a pair of crossed feathers or a pair of circling fish. Typically the more cosmopolitan people south of the [[Geography/Natural/Waterways#Reden|Reden]] use the feathers, while in more rural regions throughout the Weald the pair of fish is used. Both symbolize a sense of freedom, companionship, and aesthetic beauty. Those who fight in her name often use a matching set of blades, employing martial styles more reminiscent of dance than war.
+
+## The Festival of Colours
+Every year, in the middle of Spring, it is customary to hold a Festival of Colours celebrating Panismé and the beauty of life. The centre of town is often decked out in flowers, feathers, scraps of cloth, all in as many different bright colours as can be found. The people too are often in their brightest, gaudiest clothes to celebrate the return of the warm months and the hopes for the new year.
+
+In [[Geography/Mallerand#Ed Fadina|Ed Fadina]] the festival draws many from nearby who come to witness the bejewelled finery of the upper class in their extravagant celebration. Each year different families enter a gem or jewel they have mined to be named that year's Crown Jewel, sent to the monarch as yearly tribute. In [Port Manteaux](Geography/Port%20Manteaux.md) the festival spans three days of nonstop revelry and party. It is often said that by the end of the festival, even the fish in the bay are hungover. In [[Geography/Agercort#Miellway|Miellway]] the festival is a matchmaking opportunity, as many young men and women of the nobility are sent to the capital in order to initiate courtship with another of their station. By the end of the day there are often a dozen or more young couples at the chapel of Panismé seeking the goddess's blessing on their new relationship.
+
+## Muses of Panismé
+Serving the goddess directly, it is said Panismé sends her four muses down to inspire her followers to acts of worship. Many artists seek their favour, and indeed many famous artists have often claimed a connection to one of the muses. Some churches and local groups particularly revere one of the muses, offering them direct worship alongside Panismé.
+
+### Vermeille, Muse of Passion
+The Red Nymph, she is said to stoke the flames of passion within mortals, driving them to energetic vigor and obsession. Appearing as a bold woman with short blazing red hair and an aura of radiating warmth, mortals under her direct influence can supposedly forgo even food and sleep in favour of pursuing their singular driving passion.
+### Erte, Muse of Desire
+The Green Nymph, he is said to be able to draw out the inner wants and hidden desires of mortals, leaving them in states of yearning and want. Appearing as a snide young man with long viridian hair and nails drawing in your attention, mortals under his influence can be driven mad with envy or succumb to reckless abandon.
+### Dorell, Muse of Beauty
+The Gold Nymph, she finds the inner beauty in all things, gifting mortals with enhanced perceptions and artistic skills that they might learn to see the world anew. Appearing as a joyous older woman with soft features and an almost childlike demeanour, under her influence mortals can create transform even the most mundane into spectacular art.
+### Grivois, Muse of Pleasure
+The Blue Nypmh, he encourages the temptations of flesh and drives mortals to feats of hedonistic indulgence. Appearing as a grizzled man with midnight blue hair and beard often in a clash of regal and dishevelled attire, under his influence mortals find themselves often languishing in earthly pleasures for days on end, beyond their normal limits and either unable or unwilling to care for anything more.

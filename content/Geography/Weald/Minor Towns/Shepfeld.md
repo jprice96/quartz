@@ -1,0 +1,1 @@
+Supported by the waters of Lake Goose, the people of Shepfeld farm simple crops but also rear large paddocks of livestock such as goats and sheep. Almost 300 people live here either tending to the pastures, or producing goods from the wool and milk produced.

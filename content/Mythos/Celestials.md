@@ -1,0 +1,9 @@
+The term celestial refers to the various groups of lifeless entities that reside within the realm of [[Mythos/Realms/Celestum|Celestum]], a plane of golden light, intoxicatingly crisp air, and an ever-present soft rustling. All celestials seek preservation of the [[Mythos/Realms/Material Realm|Material Realm]] and the mortal races, leading them to frequently conflict with [[Mythos/Fiends|fiends]]. Some seek the preservation of mortal life as part of their duties to the various [[Mythos/The Mortal Gods|Mortal Gods]], others out of sympathy or goodwill, and others still seem to have more unclear motivations. They rarely directly manifest in the Material Plane, often requiring special circumstance or permission to do so.
+## [[Mythos/Celestials/Agathions|Agathions]]
+Unusual beast-like celestials, agathions are the result of mortals acclimatizing to Celestum. Whether they are technically mortals or celestials is unclear, but they do clearly gain enhanced abilities and lifespans as part of their transformation.
+## [[Mythos/Celestials/Angels|Angels]]
+Servants of the gods, angels are entities manifest from the will of a god and the faith of their followers. Some are more generic servants, while others are created for more specific purposes.
+## [[Mythos/Celestials/Archons|Archons]]
+Architects of Celestum that pre-date the Mortal Gods, these unearthly beings adhere to strict protocols and mandates to ensure the sanctity of Celestum, and the structure of all the [[Mythos/List of Planar Realms|planar realms]], are maintained.
+## [[Mythos/Celestials/Azata|Azata]]
+Seemingly manifested from various mortal desires and beliefs, they are capricious creatures that exemplify the emotions that spawned them - often to a fault.

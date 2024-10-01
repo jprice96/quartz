@@ -1,0 +1,37 @@
+When the [[Mythos/Realms/Material Realm|Material Realm]] was still young, there were no gods - there were angels, and demons, and elementals, and spirits, but no gods. In this absence of direction and enlightenment, the mortal races struggled and the beginnings of civilization stalled. Some believe that it was this weakness that allowed the mortal races to be so thoroughly enslaved during the Age of Dragons. Over time however, some mortals endeavoured to reach beyond their limited perspectives, becoming enlightened enough that they transcended mortality and became the gods now recognised by the mortal races today. Each of the gods exemplifies a different philosophy on the nature of mortal existence, encouraging their followers to follow in their footsteps. Most mortals have at least some reverence to one or more of the gods, many are at least respectful to most or all of them, while some devote themselves completely to a single deity in the hopes of sharing in their enlightenment.
+
+## Ambrax, God of Skill
+*(see [[Mythos/The Mortal Gods/Ambrax|Ambrax]]*)
+The dwarf who first learned to manipulate metals, Ambrax and his followers believe the meaning of existence is the pursuit of excellence and education. To dedicate oneself to a craft or field and learn it, master it, improve it, this is what gives life meaning. The nature of the skill is not of much concern to Ambrax, be it a craft, an art form, an athletic practice, or an academic study, it is the act of dedication and the fulfilment of mastery that is important.
+
+## Drytog, God of Remembrance
+(*see [[Mythos/The Mortal Gods/Drytog|Drytog]]*)
+His origins forgotten, Drytog's influence and his clergy are found everywhere due to his connection with death. He and his followers believe that the flesh is not the point of life, and death is not the end - as long as there are still people with your face in their memories, your name on their lips, the effects of your actions still playing out, you have not truly gone. The purpose of life is to touch the lives of those around you, to leave a legacy that will outlast your flesh and bones. A good life is one that is remembered, a life forgotten is a life wasted.
+
+## Jirem, God of Victory
+*(see [[Mythos/The Mortal Gods/Jirem|Jirem]])*
+An elf who managed to kill a dragon, Jirem seeks to win. Existence is a competition, a zero-sum game, with everyone pitted against each other. He and his followers believe the goal is to win, by any means necessary. Some become expert survivalists, others masters of subterfuge, while others master the secrets of the occult or arcane - there are many different ways to play the game, the only wrong way is one that fails. Jirem (as well as many of his followers) often highly value the power of information and secrecy, knowing your enemy is half the battle after all.
+
+## Kanna, God of Hunger
+*(see [[Mythos/The Mortal Gods/Kanna|Kanna]])*
+Once a goblin shaman who dealt with dark magics, Kanna became an insatiable avatar of pestilence and destruction. Most outside of goblin communities do not recognise Kanna as a true god, likening him more to an archdemon. Those who do acknowledge him rarely worship or exonerate him, instead they attempt to appease him that his greedy gaze be cast away from them. Like a swarm of locusts, Kanna doesn't seem to want anything more than to consume, a mindless bestial philosophy that offers little to all but the truly depraved or insane.
+
+## Lingzul, Goddess of Nature
+*(see [[Mythos/The Mortal Gods/Lingzul|Lingzul]])*
+An elf woman raised by wild beasts in the untamed fringes of what is now [[Geography/Vurnam|Vurnam]], Lingzul and her followers view much of civilization and society as a trap or vice which has ensnared the mortal races. She believes that all should live as the beasts do, without pointless greed, without concepts such as crime or war, without destroying the savage beauty and efficiency of the natural world. Her followers often place great value in familial bonds and self-sufficiency, scorning those who willingly surrender to the gilded cage of civilization. Not all are so extreme in their interpretations of her doctrine, but all at least believe in some level of working with nature and following instinct rather than trying to tame it.
+
+## Panismé, Goddess of Pleasure
+*(see [[Mythos/The Mortal Gods/Panismé|Panismé]])*
+A human woman who is said to have laughed as she was burned alive, Panismé and her followers believe that the purpose of life is to enjoy it - it is good to feel good, feeling bad should be avoided, it is as simple as that. Many of her followers practice varying degrees of hedonism and vice, but she also acts as a muse for many great artists. Her doctrine is also easy to popularise, and so has spread across much of the continent rivalled only by Drytog. There are those though who see her as not much better than a demon seeking to lure mortals into lives of sin, especially in [[Geography/Cruworia|Cruworia]].
+
+## Tenesia, Goddess of Perfection
+*(see [[Mythos/The Mortal Gods/Tenesia|Tenesia]])*
+A woman who is claimed to be an orc, or rather what an orc once was, who achieved perfection. She and her followers decree long lists of rules and mandates which one must adhere to in order to attempt to achieve perfection, and in essence her followers simply strive to better themselves in all aspects of their lives. She is strongly associated with the [[Mythos/The Mortal Gods/Tenesia#Church of the Rose|Church of the Rose]], the dominant religious group of [[Geography/Cruworia|Cruworia]], where her mandates are pseudo-law. It is also claimed by them that the physical nature of orcs are a divine punishment from Tenesia, and that only through repentance and dedication to her mandates can they be released and returned to their true forms.
+
+## Vorvado, God of Emptiness
+*(see [[Mythos/The Mortal Gods/Vorvado|Vorvado]])*
+A gnome who survived his own bleaching, and in the process either went insane or became enlightened, or perhaps both. His followers are never very many, and they do not typically make much effort to evangelize, yet there always seem to be some drawn to the eerie stillness of Vorvado. Many common folk shun him, claiming he seeks the destruction of the Material Realm, a claim that his followers rarely dispute although they may argue that destruction is not the right word. His clergy seek isolation and separation from the world around them, often spending long periods of time fasting or in silent meditation. Their goal in life is to move through the world as an observer, rather than an active agent, often seeking to minimize their impact on the world around them as though to try and pretend they never existed at all.
+
+## Zeva, Goddess of Fate
+*(see [[Mythos/The Mortal Gods/Zeva|Zeva]])*
+A halfling woman who claimed that the purpose of life was to play your role, that all events were forgone conclusions, and that to deviate from that role was both profane and impossible. Her followers often include seers and astrologers who claim to receive glimpses of this grand plan, that they might help Zeva ensure that things happen as they should. The fact that they need to help these things happen, and yet this things will inevitably happen, can sometimes present somewhat of a contradiction. Some followers interpret this to mean that they can do whatever they wish, for whatever it is that they do do, must be what they are supposed to do. Others might choose to believe that their actions to help fate along is their predetermined role to play.

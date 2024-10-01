@@ -1,0 +1,9 @@
+A rebel tribe of daring hunters, the Shivang revere [[Mythos/The Mortal Gods/Lingzul#Erang, Beast of Fire|Erang]] over all the other beasts of [[Mythos/The Mortal Gods/Lingzul|Lingzul]]. They often trade primarily in the hides and other products of the great beasts they hunt, often forming tactical small groups of hunters that track and lure their prey over days before striking. To the north east lie the [[Geography/Vurnam/Tribes/Tsareng|Bandits of the Burning Sand]] who constantly raid them for living prisoners, leaving the hunters of the Shivang just as proficient at slaughtering their fellow mortal as any other beast of Vurnam.
+## Territories
+
+### One Eye Eyrie
+A stretch of great stone pillars and spires carved by the wind overlook the savannah that stretches forth below. It is here that hunters of the Shivang retreat to as the [[Geography/Natural/Waterways#Shutai Waterfields|Shutai Waterfields]] begin to dwindle and dry, comparing their trophies of the hunting season and competing in various contests of skill and daring in honour of [[Mythos/The Mortal Gods/Jirem|Jirem]]. 
+### Sandsteppe Village
+During the colder months of the year, the Shivang retreat into the [[Geography/Natural/Landforms#Steppes of Sunlight|Steppes of Sunlight]] where they have a well protected encampment. Surrounded by cliffs and canyons, it is effectively impossible for them to be raided by outsiders - although they still need to send out scouting and hunting parties regularly. During this time their hunters often rest and recover from injuries sustained during the summer, new children are made and those already born begin to be trained in the way of the hunt.
+### Shutai Waterfields
+In the lowlands beneath the steppes, temporary watering holes appear and disappear throughout the spring and summer months. These watering holes draw beasts from across the savannah, and so it is here that the Shivang hunters chase their quarry.

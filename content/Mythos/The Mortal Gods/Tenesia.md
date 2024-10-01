@@ -1,0 +1,26 @@
+---
+title: "Tenesia"
+---
+Goddess of perfection and transformation, Tenesia has a long history of worship across the continent. Although she is strongly associated with the [[Mythos/The Mortal Gods/Tenesia#Church of the Rose|Church of the Rose]], Tenesia has many worshippers in all manner of forms. It is said that she herself is perfect in form, and seeks to reshape the rest of the world in a similar fashion. Her followers tend to practice whatever it is they believe will bring them closer to their ideal self, closer to perfection. As such she tends to be portrayed as either lawful good or lawful neutral, depending on the practitioner. The only exception to this exists amongst [[Culture/Mortal Races/Goblin|goblin]] traditions, who teach that Tenesia is a devil, identifying her as lawful evil and that she seeks to deceive and enslave mortals.
+
+Her symbol is that of a rose, an icon that is often seen in conjunction with her presence - roses blooming where she has touched the earth, the use of rose oil to summon her attention, its origin is debated but regardless it is clear that Tenesia has some preference for roses in particular. Typically those who follow her are either champions or clerics seeking to crusade on her behalf, taking her favoured weapons of the morning-star, or those of more arcane dispositions are specialists of transmutation - calling on her powers of transformation.
+
+## Church of the Rose
+The most iconic religious organisation on the continent, centred in the incredibly pious kingdom of [Cruworia](Geography/Cruworia.md), the Church of the Rose wields great political power. Their teachings inform the laws and actions of the orcish people, and is so embedded into their culture as to be one and the same. The Church teaches the [[Culture/Mortal Races/Orc|orcs]] of Cruworia that it is their duty not only to ensure that they are always seeking to better themselves, but that they are always holding others to the same standards. It is a core tenet of their beliefs that at some point in the past, their ancestors committed some terrible atrocity and invoked Tenesia's wrath, cursing them with their current form. They teach that only through their path of self-perfection can Tenesia be appeased and hopefully one day will the curse be lifted. The following tenets are some of the most commonly voiced of the Church to it's people:
+- You should not bring disgrace through the consumption of poisons (With the exception of [[Geography/Cruworia#Hamsia|Hamsia red wine]], orcs are forbidden from any alcohol, drugs, or other mind-altering substances)
+- You should not bring disgrace through greed or excess (The church tithes the population regularly, and open displays of wealth are heavily frowned upon)
+- You should not bring disgrace through vanity or indulgence (It is considered improper to do things with the sole goal of beauty or comfort)
+- You should not bring disgrace through indecency or insolence (Open signs of physical affection are disapproved of, especially outside wedlock, and it is also untenable to openly dispute or argue with superiors or the Church)
+- You should not bring disgrace though consorting with heathens or devils (Under no circumstances should an orc engage with anything considered dark arts, and anything more than a terse acknowledgement of other deities is considered sacrilegious)
+
+## Handmaidens of Tenesia
+Serving the goddess in her efforts to perfect the world, each of her three handmaidens are often treated as saints in their own right, acting as patrons of some of the various factions of her great crusade. Each is a great angel said to have been perfected and refined by Tenesia's own will.
+
+### Nithina, Angel of Purity
+Seemingly crafted from living animate mercury, her shimmering silver form appears as that of a beautiful youth with great wings made not of feathers but of a cascade of droplets that slide and move like an ethereal veil sharp enough to slice through anything. She seeks purity in all things, and will not abide the taint of any corruption no matter how small, especially in her own followers. She is the patron of the [[Geography/Campaign_Notes/Knights of the White Rose|Order of the White Rose]] whom she guides and inspires to missionary acts of outreach and valor.
+
+### Iverita, Angel of Truth
+With flesh made of what appears to be polished porcelain, she appears as a regal noblewoman in demure white robes of the white gossamer. Her face is beautiful, but mask-like with its unmoving features, the rest of her moves with unearthly grace that is still also mechanical and meticulous. Nothing that she does is without absolute necessity. When she speaks, it is said to sound as though a hundred different voices are speaking at once in a single harmony.
+
+### Mazera, Angel of Order
+Carved from unyielding adamantine, her form is of the darkest black seeming to absorb all light from around her. She appears as a stern, imperious woman with a pair of twisted black horns that erupt from her brow to curve into a halo above her head. With her great blade she metes out unyielding justice against the enemies of Tenesia, and acts as the patron of the Black Crusade, an elite group of paladins who serve the Church of the Rose.

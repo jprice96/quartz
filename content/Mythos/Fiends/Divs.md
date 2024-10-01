@@ -1,0 +1,1 @@
+Another name for [[Mythos/Fiends/Devils|devils]], specifically those tasked with egress into the [[Mythos/Realms/Material Realm|Material Realm]] in order to make deals with mortals

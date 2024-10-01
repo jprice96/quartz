@@ -1,0 +1,7 @@
+![Faceless](Beastiary/Images/Faceless.png)
+
+The origin of the Faceless is debated, there are many who even question if they are anything more that folklore or [[Beastiary/Hags#Changelings|changelings]] mistaken for something else. While they are always attributed to dark magics and machinations, deeper research almost always ends up tying the Faceless to [[Mythos/The Three Terrors#Dyphora, Terror of Malaise|Dyphora]] and her cultists. While their overarching goals are unknown, they tend to try and infiltrate established communities by taken the place of leaders or influential people. Once they have successfully infiltrated these positions of power, they can then begin to manipulate the communities over the long term.
+
+Many stories of the Faceless describe them as coming from humanoids, twisting into their new Faceless form - although this could just mean that they were already in the guise of a mortal and revealed their true form. There are no other stories of how Faceless propagate, so many take the stories at face value, likening them to [[Beastiary/Gnolls|gnolls]].
+
+They can mimic the consumption of mortal foods, but they need to consume the vital fluids of living creatures regularly using their proboscis-like mouth to drain them. While beasts can suffice, humanoids are more effective. They can also then taken the form of any humanoid that they have fed upon.
