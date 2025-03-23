@@ -1,0 +1,2 @@
+
+Just a day down river of [[Geography/Agercort/Major Towns/Joytham|Joytham]], Norreed Crypt was used for most of the Second Era but fell into disuse during the final years of the [[Culture/History/Scarlett War|Scarlett War]]. Despite the best efforts of the [[Culture/Factions/Whitesun Lodge|Whitesun Lodge]], is has since become flooded and fallen into disrepair.

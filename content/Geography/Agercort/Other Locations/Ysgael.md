@@ -1,0 +1,2 @@
+
+Home of the Shadowgrove Court, Ysgael is a secluded community in the woods northwest of [[Geography/Agercort/Minor Towns/Hawnt|Hawnt]] who have close ties with the local fae. A number of witches, druids, animists and shamans either hail from Ysgael or make journey there from around Agercort to learn from those who remain.

@@ -11,6 +11,23 @@ Branching off from the [[Geography/Natural/Waterways#Reden|Reden]] just beyond t
 
 ## **Agercort**
 
+### Arcbrook River
+
+### Bobfruit River
+
+### Grand Lake
+
+### Jelrye River
+
+### Marshswallow River
+
+### Shrieker's Fen
+
+### Soeur River
+
+### Starmourn River
+
+### Steelmerry River
 
 ## **Cruworia**
 

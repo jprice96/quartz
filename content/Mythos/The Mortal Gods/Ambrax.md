@@ -7,15 +7,13 @@ His symbol is a sword crossed over a hammer, for he was the first to make and wi
 
 ## Architects of Ambrax
 Said to be some of the greatest mortals to ever live, masters of their craft, Ambrax lifted them above and granted them the secrets of an ageless existence, needing fear only mortal injury they now serve him and continue to hone their craft. Occasionally they might be tempted to aid other mortals in achieving greatness.
-
 ### Latom, Shaper of Stones
 Said to be the mind behind the [[Geography/Mallerand/Arx Saxum#Vaults of Sasellum|Vaults of Sasellum]], Latom was a master stonemason and architect who is responsible for many of the advancements in dwarven architecture and engineering, some of which has since been lost to time. There are claims that his architectural prowess was inspired by a visit to [[Mythos/The Mortal Gods/Jirem#Murmur, The Inescapable|Murmur]], although when and how he did this is unknown he never refuted the claims. While unconfirmed, he is also claimed to be a member of the Conditorem family, one of the families who maintain the Vaults to this day.
-
 ### Marcus, Hammer Dancer
 A master soldier trained in all kinds of warfare, he defeated Ambrax himself in single combat by using the god's own favoured weapon of a warhammer against him thanks to advanced fighting styles he had developed himself. Never before, or since, had the creator of the hammer been defeated by his own weapon, and so to dwarven shame the greatest hammer wielder of history is a human.
-
 ### Veniceous, Keeper of the Grimoire
 The witch who founded the [[Culture/List of Factions#Roun Coven|Roun Coven]], still the dominant coven of Mallerand to this day, Veniceous was a dwarven woman whose mastery of both arcane and occult lore was renowned. So great was her power that the lords of Arx Saxum feared her and were forced to keep her appeased until eventually Ambrax took her under his wing. Her grimoire is infamous, written entirely in a lost language it supposedly contains a plethora of hexes, formulae, and rituals she developed and she alone understood.
-
 ### Aculara, Metalweaver
 A gnomish smith of great ingenuity, she is attributed with the invention of adamantine, along with a number of other weapons, tools, even homunculi or since unparalleled designs. Her creativity eventually drew Ambrax's attention, her constructions amused and intrigued him so much that he eventually recruited her to come and be his assistant.
+### Nova, Stormtamer
+Third Era saint of Ambrax, Nova was a genius gnome inventor and engineer who made many advancements in arcane engineering in the century after the [[Culture/History/Scarlett War|Scarlett War]]. While many advancements and inventions were attributed to her talents, it is said that the feat that drew Ambrax's attention and favor was the invention of the skyship. Fascinated by the power of the winds and storms of Mallerand, Nova found many ways by which to harness them for use, but it was only in her final few years that she cracked the mysteries of flight. Her designs were copied after her sudden disappearance, and many facsimiles were produced although none have yet to perfectly replicate her few working designs.

@@ -16,7 +16,7 @@ First Era
 	- 1E 431 [[Geography/Vurnam|Vurnam]] unites against the Necropolis of the Moon
 	- 1E 458 The Necropolis of the Moon falls, the First Era ends
 Second Era
-	- 2E 13 Founding of [[Geography/Agercort|Agercort]]
+	- 2E 13 Founding of [[Geography/Agercort/Agercort|Agercort]]
 	- 2E 32 Eastern [[Geography/Vurnam|Vurnam]] negotiates peace with [[Geography/Port Manteaux|Port Manteaux]]
 	- 2E 101 Death of [[Mythos/The Mortal Gods/Drytog|Drytog]]
 	- 2E 288 [[Culture/History/Scarlett War|Scarlett War]] begins
@@ -25,4 +25,10 @@ Second Era
 	- 2E 413 The Black Crusades begin
 	- 2E 552 The [[Culture/History/Scarlett War#The Burgundy Treatise|Burgundy Treatise]] is signed, the Second Era ends
 Third Era
+	- 3E 37 [[Geography/Mallerand#Ed Fadina|Ed Fadina]] fires, killing the Pecunium family
 	- 3E 73 A group of adventurers travel the southern [[Geography/Weald/Weald|Weald]]
+	- 3E 107 A group of strangers are gathered by an elven prophet
+	- 3E 109 [[Vurnam]] splinters following the death of [[Culture/Important People#Queen Rogarka of Vurnam|Queen Rogarka]]
+	- 3E 132 The Resurgence of the [[Culture/List of Factions#Erisea Coven|Erisea Coven]]
+	- 3E 150 [[Mythos/The Mortal Gods/Ambrax#Nova, Stormtamer|Nova the Stormtamer]] invents the skyship
+	- 3E 167 The formation of the [[Culture/List of Factions#Greycairn Confederacy|Greycairn Confederacy]]

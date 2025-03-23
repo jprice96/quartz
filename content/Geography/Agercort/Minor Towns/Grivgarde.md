@@ -1,0 +1,2 @@
+
+A day south of [[Geography/Agercort/Major Towns/Joytham|Joytham]], Grivgarde is renowned as a retreat for the noblesse and wealthy foreigners. Home to the a thriving pleasure district in which all manner of purveyors offer blessings to [[Mythos/The Mortal Gods/Panismé#Grivois, Muse of Pleasure|Grivois]], it strikes an uneasy balance between sleaze and sophistication as befitting its patron muse.

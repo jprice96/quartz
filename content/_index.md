@@ -12,7 +12,7 @@ This wiki contains information about the homebrew setting of Burgundy. Below are
 - [[Culture/Mortal Races/Orc|Orcs]]
 
 **The Kingdoms of the Continent**
-- [[Geography/Agercort|Agercort]]
+- [[Geography/Agercort/Agercort|Agercort]]
 - [[Geography/Cruworia|Cruworia]]
 - [[Geography/Mallerand|Mallerand]]
 - [[Geography/Port Manteaux|Port Manteaux]]

@@ -27,7 +27,7 @@ A green fruit found in the pastoral regions south of the [[Geography/Natural/Wat
 ## Roseberry
 *Climate: Cool
 Growing Season: Early spring - Late summer*
-Grown in both [[Geography/Agercort|Agercort]] and [[Geography/Cruworia|Cruworia]], roseberry vineyards produce much of the more sought after wines of the continent. Small clusters of dusty pink berries grow on vines supported by wooden scaffolding, carefully maintained by the farmers for signs of disease or damage. The berries are collected and either turned into various preserves or sent directly for fermentation into wines. While most roseberry farms are similar, the roseberry vineyards of [[Geography/Cruworia#Hamsia|Hamsia]] cultivate a unique strain that yields a second harvest at the end of winter. This second harvest produces berries that are not pink, but are silver, and the wine produced from such berries is highly sought.
+Grown in both [[Geography/Agercort/Agercort|Agercort]] and [[Geography/Cruworia|Cruworia]], roseberry vineyards produce much of the more sought after wines of the continent. Small clusters of dusty pink berries grow on vines supported by wooden scaffolding, carefully maintained by the farmers for signs of disease or damage. The berries are collected and either turned into various preserves or sent directly for fermentation into wines. While most roseberry farms are similar, the roseberry vineyards of [[Geography/Cruworia#Hamsia|Hamsia]] cultivate a unique strain that yields a second harvest at the end of winter. This second harvest produces berries that are not pink, but are silver, and the wine produced from such berries is highly sought.
 ## Feathercorn
 *Climate: Warm
 Growing Season: Early summer - Early winter*
@@ -51,4 +51,5 @@ Small bushes that grow mostly along the [[Geography/Vurnam|Vurnam]] coastline, a
 ## Golders
 *Climate: Temperate
 Growing Season: Late spring - Midwinter*
-Grown on big trees throughout the southern [[Geography/Weald/Weald|Weald]] and [[Geography/Agercort|Agercort]], golders are an orange fuzzy fruit that grow as balls a slight bit smaller than [[Culture/Crops and Agriculture#Leshy-Hearts|leshy-hearts]]. The flesh inside is golden and riddled with thin fibrous veins, with a single large seed in the centre. Its almost honey-like taste leads it to be used both in winemaking as well as in the production of all manner of deserts. Orchards are relatively common, but the fruit doesn't keep long and so needs to be preserved in various manners for it to be exported anywhere else.
+Grown on big trees throughout the southern [[Geography/Weald/Weald|Weald]] and [[Geography/Agercort/Agercort|Agercort]], golders are an orange fuzzy fruit that grow as balls a slight bit smaller than [[Culture/Crops and Agriculture#Leshy-Hearts|leshy-hearts]]. The flesh inside is golden and riddled with thin fibrous veins, with a single large seed in the centre. Its almost honey-like taste leads it to be used both in winemaking as well as in the production of all manner of deserts. Orchards are relatively common, but the fruit doesn't keep long and so needs to be preserved in various manners for it to be exported anywhere else.
+

@@ -1,0 +1,2 @@
+
+Across the shore from [[Geography/Agercort/Minor Towns/Erlington|Erlington]], the great Flambre Academy has stood for nearly three centuries. Officially established in 2E 439, although it had been in practice for almost a decade previously, the Academy trains a number of both artists and warriors alike in the art of flame dancing.
