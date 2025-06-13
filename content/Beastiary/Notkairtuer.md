@@ -1,1 +1,0 @@
-![[Beastiary/Images/Notkairtuer.png]]

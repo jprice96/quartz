@@ -29,6 +29,8 @@ Third Era
 	- 3E 73 A group of adventurers travel the southern [[Geography/Weald/Weald|Weald]]
 	- 3E 107 A group of strangers are gathered by an elven prophet
 	- 3E 109 [[Vurnam]] splinters following the death of [[Culture/Important People#Queen Rogarka of Vurnam|Queen Rogarka]]
+	- 3E 115 [[Geography/Vurnam/Major Cities/Flucha|Flucha]] concedes defeat to the [[Culture/List of Factions#Church of the Lifeless|Church of the Lifeless]]
 	- 3E 132 The Resurgence of the [[Culture/List of Factions#Erisea Coven|Erisea Coven]]
 	- 3E 150 [[Mythos/The Mortal Gods/Ambrax#Nova, Stormtamer|Nova the Stormtamer]] invents the skyship
 	- 3E 167 The formation of the [[Culture/List of Factions#Greycairn Confederacy|Greycairn Confederacy]]
+	- 3E 170 A great pestilence spreads over the crops of [[Geography/Agercort/Agercort|Agercort]]

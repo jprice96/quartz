@@ -1,0 +1,1 @@
+![[Bestiary/Images/Herdfolk.png]]

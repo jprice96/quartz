@@ -13,6 +13,8 @@ Branching off from the [[Geography/Natural/Waterways#Reden|Reden]] just beyond t
 
 ### Arcbrook River
 
+### Aventure Lakes
+North of [[Geography/Agercort/Major Towns/Miellway|Miellway]] sit the pair of lakes named Grand Aventure, the northern and larger lake, and Petit Aventure, the southern and smaller lake. Despite being separated by a sizeable land bridge of over a miles, it has been deduced that the two lakes must be connected beneath as the waters that flow north along the [[Geography/Natural/Waterways#Jelrye River|Jelrye River]] pass through unimpeded. Attempts to traverse this underwater connection are sparse as there is great risk of becoming trapped without air, and there doesn't seem to be any greater purpose to doing so.
 ### Bobfruit River
 
 ### Grand Lake

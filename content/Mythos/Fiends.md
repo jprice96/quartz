@@ -5,6 +5,7 @@ Monstrosities dedicated to the death of all things, daemons represent the endles
 Manifestations of mortal sin, demons are the by-product of mortal evils who then attempt to gorge and multiply by encouraging further vice.
 ## [[Mythos/Fiends/Devils|Devils]]
 Cunning and powerful creatures bound by their word, devils endeavour to manipulate mortals into forming binding deals exchanging "favours" for power.
-## [[Beastiary/Rakshasa|Rakshasa]]
+## [[Bestiary/Rakshasa|Rakshasa]]
 While not devils themselves, rakshasa seem to be associated with them in some capacity. While their goals are unclear they seem to delight in stoking self-righteous fury in mortals.
-
+## [[Mythos/Fiends/Apocalypse Lords|Apocalypse Lords]]
+A collection of powerful fiends who hold great sway in Infernum and often command a great many fiends. There is no common origin of the various Apocalypse Lords, although each seems to have their own sphere of evil and many scholars and theologians claim they represent (real or potential) the ways in which the world will end.

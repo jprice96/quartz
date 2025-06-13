@@ -1,1 +1,4 @@
 Malignant creatures known to despise fiends, it seems this rivalry is their only motive behind their hatred of the mortal races. Bizarre and unfathomable in their nature, they are frequently associated with the [[Mythos/The Three Terrors#Dyphora, Terror of Malaise|Terror of Malaise]] but this association may be baseless.
+
+## Quartzilingter
+Leader of the [[Culture/List of Factions#Church of the Lifeless|Church of the Lifeless]], few can but guess at their nature - but those who have managed to meet the so-called god and lived to theorize about their nature seem to have decided they must be a qlippoth.

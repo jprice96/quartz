@@ -4,5 +4,5 @@ Nymphs are the collective term for fey bound to nature. Often presenting a human
 
 
 ## Naiads
-![Naiad](Beastiary/Images/Nymph_Naiad.png)
+![Naiad](Bestiary/Images/Nymph_Naiad.png)
 Originating from streams, lakes, lagoons, or other permanent bodies of water, naiads tend to be more solitary than most nymphs. They are the most likely to engage openly with the mortal races, as their origins often sit side by side with settlements, and they often long for company. Naïve at first, the nature of a naiad tends to be formed over their first interactions. Communities that respect and accommodate the naiad will find their water clean of disease, thriving with fish, calm under boats. Those who anger or despoil the naiad and her origin will find themselves afflicted by waterborne illness, flash flooding, and frequent drownings. Unfortunately once angered, it can be very difficult to regain a naiad's trust - some settlements are abandoned over a soured relationship with one. Powerful naiads have also been described as powerful sirens, able to lure and transfix those with hypnotic undulating beauty as they slowly drown without even a struggle.
