@@ -12,15 +12,15 @@ This wiki contains information about the homebrew setting of Burgundy. Below are
 - [[Culture/Mortal Races/Orc|Orcs]]
 
 **The Kingdoms of the Continent**
-- [[Geography/Agercort/Agercort|Agercort]]
-- [[Geography/Cruworia|Cruworia]]
-- [[Geography/Mallerand|Mallerand]]
+- [[Geography/Agercort homepage|Agercort homepage]]
+- [[Geography/Cruworia homepage|Cruworia homepage]]
+- [[Geography/Mallerand homepage|Mallerand homepage]]
 - [[Geography/Port Manteaux|Port Manteaux]]
-- [[Geography/Vurnam|Vurnam]]
-- [[Geography/Weald/Weald|the Weald]]
+- [[Geography/Vurnam homepage|Vurnam homepage]]
+- [[Geography/Weald homepage|the Weald]]
 
 Other useful links:
-- [[Mythos/The Mortal Gods|The Mortal Gods]]
+- [[Mythos/The Mortal Gods homepage|The Mortal Gods homepage]]
 - [[Bestiary Index|Bestiary of the Material Realm]]
 - [[Mythos/List of Planar Realms|List of Planar Realms]]
 - [[Culture/History/Timeline of the Material Realm|Timeline of the Material Realm]]

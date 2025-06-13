@@ -1,40 +1,40 @@
 Below lies an index for many of the different monsters and beasts found across the Continent
 
 **B**
-- [[Beastiary/Boggards|Boggards]]
+- [[Bestiary/Boggards|Boggards]]
 **C**
-- [[Beastiary/Cave Fishers|Cave Fishers]]
-- [[Beastiary/Chimera|Chimera]]
+- [[Bestiary/Cave Fishers|Cave Fishers]]
+- [[Bestiary/Chimera|Chimera]]
 **D**
-- [[Beastiary/Nymphs#Dryads|Dryads]]
+- [[Bestiary/Nymphs#Dryads|Dryads]]
 **E**
-- [[Beastiary/Ennosite|Ennosite]]
+- [[Bestiary/Ennosite|Ennosite]]
 **F**
-- [[Beastiary/Faceless|Faceless]]
-- [[Beastiary/Faefolk|Faefolk]]
+- [[Bestiary/Faceless|Faceless]]
+- [[Bestiary/Faefolk|Faefolk]]
 **G**
-- [[Beastiary/Gnolls|Gnolls]]
-- [[Beastiary/Golems|Golems]]
+- [[Bestiary/Gnolls|Gnolls]]
+- [[Bestiary/Golems|Golems]]
 **H**
-- [[Beastiary/Hags|Hags]]
+- [[Bestiary/Hags|Hags]]
 **L**
-- [[Beastiary/Leshy|Leshy]]
+- [[Bestiary/Leshy|Leshy]]
 **M**
-- [[Beastiary/Mandragora|Mandragora]]
-- [[Beastiary/Walking Dead#Mohrg|Mohrg]]
+- [[Bestiary/Mandragora|Mandragora]]
+- [[Bestiary/Walking Dead#Mohrg|Mohrg]]
 **N**
-- [[Beastiary/Nymphs#Naiads|Naiads]]
-- [[Beastiary/Nymphs|Nymphs]]
+- [[Bestiary/Nymphs#Naiads|Naiads]]
+- [[Bestiary/Nymphs|Nymphs]]
 **P**
-- [[Beastiary/Chimera#Peryton|Peryton]]
+- [[Bestiary/Chimera#Peryton|Peryton]]
 **R**
-- [[Beastiary/Rakshasa|Rakshasa]]
-- [[Beastiary/Rusalka|Rusalka]]
+- [[Bestiary/Rakshasa|Rakshasa]]
+- [[Bestiary/Rusalka|Rusalka]]
 **S**
-- [[Beastiary/Walking Dead#Skeleton|Skeletons]]
+- [[Bestiary/Walking Dead#Skeleton|Skeletons]]
 **W**
-- [[Beastiary/Walking Dead|Walking Dead]]
-- [[Beastiary/Walking Dead#Wights|Wights]]
-- [[Beastiary/Wisps|Wisps]]
+- [[Bestiary/Walking Dead|Walking Dead]]
+- [[Bestiary/Walking Dead#Wights|Wights]]
+- [[Bestiary/Wisps|Wisps]]
 **Z**
-- [[Beastiary/Faefolk#Zrukbat|Zrukbat]]
+- [[Bestiary/Faefolk#Zrukbat|Zrukbat]]

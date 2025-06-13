@@ -1,4 +1,4 @@
-The second largest town in [[Geography/Agercort/Agercort|Agercort]], Miellway is the home of the Cathedral of Morning Lights, the Arcenciel Tower, and Castle Resplendence.
+The second largest town in [[Geography/Agercort homepage|Agercort homepage]], Miellway is the home of the Cathedral of Morning Lights, the Arcenciel Tower, and Castle Resplendence.
 
 ## Cathedral of Morning Lights
 A major center of worship for [[Mythos/The Mortal Gods/Panismé|Panismé]], many clerics and devout followers across Agercort make a pilgrimage to Miellway to either study at the Cathedral or simple to gaze upon its beauty. It is renowned for its dazzling array of windows made not from stained glass but from finely cut and polished crystal.

@@ -7,30 +7,30 @@
 First Era
 	- 1E 7 The fallen kingdom of [[Geography/Natural/Waterways#Sullen Swamp|Tinedd]] begins to sink, causing the exodus of the [[Culture/Mortal Races/Gnome|gnomes]]
 	- 1E 23 The [[Culture/Mortal Races/Orc|orcs]] are cursed by [[Mythos/The Mortal Gods/Tenesia|Tenesia]]
-	- 1E 38 The [[Culture/Mortal Races/Dwarf|dwarves]] and [[Culture/Mortal Races/Gnome|gnomes]] merge to become [[Geography/Mallerand|Mallerand]]
+	- 1E 38 The [[Culture/Mortal Races/Dwarf|dwarves]] and [[Culture/Mortal Races/Gnome|gnomes]] merge to become [[Geography/Mallerand homepage|Mallerand homepage]]
 	- 1E 109 The Necropolis of the Moon begins to expand its new empire
-	- 1E 130 The [[Mythos/The Mortal Gods/Tenesia#Church of the Rose|Church of the Rose]] is formed and begins to create [[Geography/Cruworia|Cruworia]]
+	- 1E 130 The [[Mythos/The Mortal Gods/Tenesia#Church of the Rose|Church of the Rose]] is formed and begins to create [[Geography/Cruworia homepage|Cruworia homepage]]
 	- 1E 187 Formation of the [[Culture/Factions/College of Night|College of Night]]
 	- 1E 261 Founding of [[Geography/Port Manteaux|Port Manteaux]] and the formation of the [[Geography/Port Manteaux#The Corsair Court|Corsair Court]]
 	- 1E 407 First slave rebellion against the Necropolis of the Moon
-	- 1E 431 [[Geography/Vurnam|Vurnam]] unites against the Necropolis of the Moon
+	- 1E 431 [[Geography/Vurnam homepage|Vurnam homepage]] unites against the Necropolis of the Moon
 	- 1E 458 The Necropolis of the Moon falls, the First Era ends
 Second Era
-	- 2E 13 Founding of [[Geography/Agercort/Agercort|Agercort]]
-	- 2E 32 Eastern [[Geography/Vurnam|Vurnam]] negotiates peace with [[Geography/Port Manteaux|Port Manteaux]]
+	- 2E 13 Founding of [[Geography/Agercort homepage|Agercort homepage]]
+	- 2E 32 Eastern [[Geography/Vurnam homepage|Vurnam homepage]] negotiates peace with [[Geography/Port Manteaux|Port Manteaux]]
 	- 2E 101 Death of [[Mythos/The Mortal Gods/Drytog|Drytog]]
 	- 2E 288 [[Culture/History/Scarlett War|Scarlett War]] begins
 	- 2E 313 Fall of Tarid
-	- 2E 369 Siege of [[Geography/Mallerand#Klofina|Klofina]] / The Year of Red Rivers
+	- 2E 369 Siege of [[Geography/Mallerand homepage#Klofina|Klofina]] / The Year of Red Rivers
 	- 2E 413 The Black Crusades begin
 	- 2E 552 The [[Culture/History/Scarlett War#The Burgundy Treatise|Burgundy Treatise]] is signed, the Second Era ends
 Third Era
-	- 3E 37 [[Geography/Mallerand#Ed Fadina|Ed Fadina]] fires, killing the Pecunium family
-	- 3E 73 A group of adventurers travel the southern [[Geography/Weald/Weald|Weald]]
+	- 3E 37 [[Geography/Mallerand homepage#Ed Fadina|Ed Fadina]] fires, killing the Pecunium family
+	- 3E 73 A group of adventurers travel the southern [[Geography/Weald homepage|Weald homepage]]
 	- 3E 107 A group of strangers are gathered by an elven prophet
-	- 3E 109 [[Vurnam]] splinters following the death of [[Culture/Important People#Queen Rogarka of Vurnam|Queen Rogarka]]
+	- 3E 109 [[Geography/Vurnam homepage]] splinters following the death of [[Culture/Important People#Queen Rogarka of Vurnam|Queen Rogarka]]
 	- 3E 115 [[Geography/Vurnam/Major Cities/Flucha|Flucha]] concedes defeat to the [[Culture/List of Factions#Church of the Lifeless|Church of the Lifeless]]
 	- 3E 132 The Resurgence of the [[Culture/List of Factions#Erisea Coven|Erisea Coven]]
 	- 3E 150 [[Mythos/The Mortal Gods/Ambrax#Nova, Stormtamer|Nova the Stormtamer]] invents the skyship
 	- 3E 167 The formation of the [[Culture/List of Factions#Greycairn Confederacy|Greycairn Confederacy]]
-	- 3E 170 A great pestilence spreads over the crops of [[Geography/Agercort/Agercort|Agercort]]
+	- 3E 170 A great pestilence spreads over the crops of [[Geography/Agercort homepage|Agercort homepage]]

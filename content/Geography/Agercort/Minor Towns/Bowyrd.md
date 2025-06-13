@@ -1,0 +1,1 @@
+In the midst of the [[Geography/Natural/Landforms#Æmtiche Moors|Æmtiche Moors]] sits the awkward settlement of Bowyrd which acts mostly as a rest stop for travelers and as a trading post for engagements between people of [[Geography/Agercort homepage|Agercort homepage]] and the [[Bestiary/Herdfolk|Herdfolk]] tribes.
